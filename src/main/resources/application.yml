@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://ffzs:123zxc@localhost:27017/ffzs
